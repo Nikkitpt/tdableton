@@ -1,4 +1,7 @@
 # tdableton
 A HANNNNGGG
 
-dunno wtf happen with the branches. I made the master and then github made this one with the read me? 
+
+some files need the palette color lover picker 
+https://derivative.ca/community-post/asset/colour-lover-palette-picker
+add to my components folder
